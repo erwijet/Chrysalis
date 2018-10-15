@@ -9,3 +9,14 @@ C:\users\tyler\desktop\projects\Chrysalis\cenc\obj\Debug\cenc.csproj.CoreCompile
 C:\users\tyler\desktop\projects\Chrysalis\cenc\obj\Debug\cenc.csproj.CopyComplete
 C:\users\tyler\desktop\projects\Chrysalis\cenc\obj\Debug\cenc.exe
 C:\users\tyler\desktop\projects\Chrysalis\cenc\obj\Debug\cenc.pdb
+C:\Users\tyler\Desktop\chrysalis\cenc\bin\Debug\cenc.exe.config
+C:\Users\tyler\Desktop\chrysalis\cenc\bin\Debug\cenc.exe
+C:\Users\tyler\Desktop\chrysalis\cenc\bin\Debug\cenc.pdb
+C:\Users\tyler\Desktop\chrysalis\cenc\bin\Debug\Chrysalis.dll
+C:\Users\tyler\Desktop\chrysalis\cenc\bin\Debug\Chrysalis.pdb
+C:\Users\tyler\Desktop\chrysalis\cenc\bin\Debug\Chrysalis.dll.config
+C:\Users\tyler\Desktop\chrysalis\cenc\obj\Debug\cenc.csprojAssemblyReference.cache
+C:\Users\tyler\Desktop\chrysalis\cenc\obj\Debug\cenc.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\chrysalis\cenc\obj\Debug\cenc.csproj.CopyComplete
+C:\Users\tyler\Desktop\chrysalis\cenc\obj\Debug\cenc.exe
+C:\Users\tyler\Desktop\chrysalis\cenc\obj\Debug\cenc.pdb

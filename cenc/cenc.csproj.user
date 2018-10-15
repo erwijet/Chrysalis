@@ -11,6 +11,6 @@
     <VerifyUploadedFiles>false</VerifyUploadedFiles>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
-    <StartArguments>-e -f cenc.exe</StartArguments>
+    <StartArguments>-d C:\users\tyler\desktop\file.txt.png</StartArguments>
   </PropertyGroup>
 </Project>

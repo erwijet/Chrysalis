@@ -5,3 +5,10 @@ C:\users\tyler\desktop\projects\Chrysalis\Chrysalis\obj\Debug\Chrysalis.pdb
 C:\users\tyler\desktop\projects\Chrysalis\Chrysalis\bin\Debug\Chrysalis.dll.config
 C:\users\tyler\desktop\projects\Chrysalis\Chrysalis\bin\Debug\Chrysalis.dll
 C:\users\tyler\desktop\projects\Chrysalis\Chrysalis\obj\Debug\Chrysalis.dll
+C:\Users\tyler\Desktop\chrysalis\Chrysalis\bin\Debug\Chrysalis.dll.config
+C:\Users\tyler\Desktop\chrysalis\Chrysalis\bin\Debug\Chrysalis.dll
+C:\Users\tyler\Desktop\chrysalis\Chrysalis\bin\Debug\Chrysalis.pdb
+C:\Users\tyler\Desktop\chrysalis\Chrysalis\obj\Debug\Chrysalis.csprojAssemblyReference.cache
+C:\Users\tyler\Desktop\chrysalis\Chrysalis\obj\Debug\Chrysalis.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\chrysalis\Chrysalis\obj\Debug\Chrysalis.dll
+C:\Users\tyler\Desktop\chrysalis\Chrysalis\obj\Debug\Chrysalis.pdb

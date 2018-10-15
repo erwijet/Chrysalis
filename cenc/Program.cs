@@ -20,7 +20,7 @@ cenc.exe and Chrysalis are avalible under the GNU AGPLv3
 The Chrysalis library is avalible at http://erwijet.github.com/Chrysalis
 The cenc.exe tool  is avalible at http://github.com/erwijet/cenc
 
-Chrysalis v1.0. 16 August 2018
+Chrysalis v1.1[unstable]. October 15 2018
 cenc.exe  v1.0. 16 August 2018
 
 Usage: cenc [mode] <input type> filename
@@ -35,15 +35,14 @@ Input Types:
 
 Examples:
 cenc -e -f unencodedFile.txt
-cenc -d encodedFile.png
-";
+cenc -d encodedFile.png";
         static void Main(string[] args)
         {
             string cmdString = GetCommandString(args) ?? "NaN";
             if (cmdString == "NaN")
             {
                 Console.WriteLine(HelpMenu);
-                Console.ReadKey();
+                //Console.ReadKey();
                 return;
             }
             if (cmdString.Substring(0, 1) == "+")

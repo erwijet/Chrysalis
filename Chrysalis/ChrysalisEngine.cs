@@ -43,8 +43,14 @@ namespace ChrysalisLib
                 for (int x = 0; x < side; x++)
                 {
                     if (!(isFolder && x + y == 0))
-                    try { bin.Write((byte)GetValueOfColor(b.GetPixel(x, y))); bin.Flush(); }
-                    catch { }
+                    {
+                        Color c = b.GetPixel(x, y);
+                        if (GetValueOfColor(c) != 4 * MAX) // Is this 
+                        {
+                            try { bin.Write((byte)GetValueOfColor(b.GetPixel(x, y))); bin.Flush(); }
+                            catch { }
+                        }
+                    }
                 }
             }
 
