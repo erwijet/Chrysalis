@@ -19,8 +19,8 @@ cenc.exe and Chrysalis are avalible under the GNU AGPLv3
 
 The Chrysalis library is avalible at http://erwijet.github.com/Chrysalis
 
-Chrysalis v1.1. October 15 2018
-cenc.exe  v1.0. 16 August 2018
+Chrysalis v1.1.0.1[α] October 15 2018
+cenc.exe  v1.0.1[α] 16 August 2018
 
 Usage: cenc [mode] <input type> filename
 
@@ -30,7 +30,9 @@ Modes:
 
 Input Types:
 -f: File
--d: Directory / Folder
+-d: Directory / Folder'
+
+Password Protection
 
 Examples:
 cenc -e -f unencodedFile.txt
@@ -58,6 +60,8 @@ cenc -d encodedFile.png";
             }
             
         }
+
+        //+: encode, -:decode %: file, &: directory
 
         static string GetCommandString(params string[] args)
         {

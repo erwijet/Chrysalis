@@ -45,7 +45,7 @@ namespace ChrysalisLib
                     if (!(isFolder && x + y == 0))
                     {
                         Color c = b.GetPixel(x, y);
-                        if (GetValueOfColor(c) != 4 * MAX) // Is this 
+                        if (GetValueOfColor(c) != 4 * MAX) // Is this pixal a pixal that actually has data?
                         {
                             try { bin.Write((byte)GetValueOfColor(b.GetPixel(x, y))); bin.Flush(); }
                             catch { }
